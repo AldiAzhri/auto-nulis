@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px 0;
+  background-color: #f7faff;
+}
+
+._container {
+  display: flex;
+  justify-content: center;
+}
+
+._text {
+  border: 1px solid rgb(194, 194, 194);
+}
+
+._btn {
+  cursor: pointer;
+  background: gray;
+  color: white;
+  border: 0px;
+  padding: 10px;
+}
+
+._img {
+  margin: 40px auto;
+  display: block;
+  width: 400px;
+}
